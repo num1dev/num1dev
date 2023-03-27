@@ -1,7 +1,7 @@
 <div align="center">
   
 
-# 👋 Hi there 👋
+# 👋 Hello, I'm Lucy 👋
 
 ### 👩‍💻I'm currently taking the course of dktechin Group at KOSA.👩‍💻
 <br>
