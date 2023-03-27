@@ -1,7 +1,7 @@
 <div align="center">
   
   
-# 👋 Hello, I'm Lucy 👋
+# 👋 _Hello, I'm Lucy_ 👋
   
 <br>
   
@@ -33,7 +33,8 @@
 <a href="https://www.sw.or.kr/site/sw/main.do" target="_blank"><img src="https://www.sw.or.kr/images/kosa/common/logo.png" style="width:150px; height:50px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVhqdzZmqELwaH4go-BJR3jYKmUNMWLtHtuo6q2YMB4ONYttWj-5SwVzf2Tm2H3Mc96w&usqp=CAU" style="width:20px; height:45px;"></a> <a href="#" target="_blank"><img src="https://t1.daumcdn.net/cfile/tistory/9910D03D5CC4518005" style="width:70px; height:45px;"></a>
   <br><br><br>
-  _👩‍💻 &nbsp;I'm currently taking the course of dktechin Group at KOSA.&nbsp;👩‍💻_
+  
+  ✍️ &nbsp; _I'm currently taking the course of dktechin at KOSA_ &nbsp;✍️ 
 
   
   
