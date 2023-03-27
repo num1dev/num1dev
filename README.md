@@ -2,9 +2,13 @@
   
 
 # 👋 Hello, I'm Lucy 👋
+  
+<a href="#" target="_blank"><img src="https://i.pinimg.com/originals/62/4c/8c/624c8c4bdc026d66822527dcc777d6bf.jpg" style="width:500px; height:400px;"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  
+  
 
 ### 👩‍💻I'm currently taking the course of dktechin Group at KOSA.👩‍💻
-<br>
 <br>
 <a href="#" target="_blank"><img src="https://www.pngmart.com/files/8/Brackets-Transparent-Images-PNG.png" style="width:30px; height:45px;"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
