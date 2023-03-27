@@ -8,14 +8,18 @@
 
 <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/122321793/228085614-f7ce4605-6a97-489e-8373-90f11de6d903.png" style="width: 130px; height:130px;"></a>
 
+
+  <a href="https://instagram.com/sj_cd_9612?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<br>
+ 
+  
 <a href="#" target="_blank"><img src="https://i.pinimg.com/564x/e5/17/b2/e517b212f6aba912caae168fbb32900e.jpg" style="width: 600px; height:400px;"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
   
    <br>
 
 
-_👩‍💻 &nbsp; I'm currently taking the course of dktechin Group at KOSA. &nbsp; 👩‍💻_
-  
+
   
   
 <br>
@@ -29,8 +33,13 @@ _👩‍💻 &nbsp; I'm currently taking the course of dktechin Group at KOSA. &
 <a href="https://www.sw.or.kr/site/sw/main.do" target="_blank"><img src="https://www.sw.or.kr/images/kosa/common/logo.png" style="width:150px; height:50px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVhqdzZmqELwaH4go-BJR3jYKmUNMWLtHtuo6q2YMB4ONYttWj-5SwVzf2Tm2H3Mc96w&usqp=CAU" style="width:20px; height:45px;"></a> <a href="#" target="_blank"><img src="https://t1.daumcdn.net/cfile/tistory/9910D03D5CC4518005" style="width:70px; height:45px;"></a>
   <br><br><br>
-  <a href="https://instagram.com/sj_cd_9612?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  _👩‍💻 &nbsp;I'm currently taking the course of dktechin Group at KOSA.&nbsp;👩‍💻_
 
+  
+  
+  
+  <br><br><br>
+  
 <!--
 **num1dev/num1dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
