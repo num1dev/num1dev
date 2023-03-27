@@ -1,14 +1,21 @@
 <div align="center">
   
-
+  
 # 👋 Hello, I'm Lucy 👋
   
-<a href="#" target="_blank"><img src="https://i.pinimg.com/originals/62/4c/8c/624c8c4bdc026d66822527dcc777d6bf.jpg" style="width:500px; height:400px;"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  
+<br>
   
 
+<a href="#" target="_blank"><img src="https://i.pinimg.com/564x/e5/17/b2/e517b212f6aba912caae168fbb32900e.jpg" style="width:500px; height:400px;"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  
+   <br>
+
+
 ### 👩‍💻I'm currently taking the course of dktechin Group at KOSA.👩‍💻
+  
+  
+  
 <br>
 <a href="#" target="_blank"><img src="https://www.pngmart.com/files/8/Brackets-Transparent-Images-PNG.png" style="width:30px; height:45px;"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
@@ -18,6 +25,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 <a href="https://www.sw.or.kr/site/sw/main.do" target="_blank"><img src="https://www.sw.or.kr/images/kosa/common/logo.png" style="width:150px; height:50px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVhqdzZmqELwaH4go-BJR3jYKmUNMWLtHtuo6q2YMB4ONYttWj-5SwVzf2Tm2H3Mc96w&usqp=CAU" style="width:20px; height:45px;"></a> <a href="#" target="_blank"><img src="https://t1.daumcdn.net/cfile/tistory/9910D03D5CC4518005" style="width:70px; height:45px;"></a>
+  <br><br><br>
+  <a href="https://instagram.com/sj_cd_9612?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
 <!--
 **num1dev/num1dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
