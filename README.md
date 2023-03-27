@@ -16,11 +16,6 @@
 <a href="#" target="_blank"><img src="https://i.pinimg.com/564x/e5/17/b2/e517b212f6aba912caae168fbb32900e.jpg" style="width: 600px; height:400px;"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
   
-   <br>
-
-
-
-  
   
 <br>
   &nbsp;&nbsp;&nbsp;
