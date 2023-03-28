@@ -10,8 +10,10 @@
 
 
   <a href="https://instagram.com/sj_cd_9612?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<br>
- 
+ <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> &nbsp;   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> &nbsp;  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+&nbsp;  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">  &nbsp; <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">  &nbsp; <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+
   
 <a href="#" target="_blank"><img src="https://i.pinimg.com/564x/e5/17/b2/e517b212f6aba912caae168fbb32900e.jpg" style="width: 600px; height:400px;"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
