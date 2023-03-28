@@ -75,6 +75,10 @@ Here are some ideas to get you started:
   
 <img src="https://capsule-render.vercel.app/api?type=wave&color=ffdbe6&height=200&section=footer&text=See%20You!&fontSize=70&animation=fadeIn&fontColor=4b4b4b&reversal=true"/>
 
-  
+  <!--<div style="width: 100%;">
+  <a href="https://github.com/num1dev/num1dev/blob/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>-->
   
 </div>
