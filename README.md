@@ -25,7 +25,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 <a href="#" target="_blank"><img src="https://t1.daumcdn.net/cfile/tistory/122CFE484DAE956D23" style="width:20px; height:20px;"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-<a href="https://www.sw.or.kr/site/sw/main.do" target="_blank"><img src="https://www.sw.or.kr/images/kosa/common/logo.png" style="width:150px; height:50px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.sw.or.kr/site/sw/main.do" target="_blank"><img src="https://user-images.githubusercontent.com/122321793/228093858-493cd9da-b83e-4e86-ac79-0a036b6e35af.png" style="width:150px; height:50px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVhqdzZmqELwaH4go-BJR3jYKmUNMWLtHtuo6q2YMB4ONYttWj-5SwVzf2Tm2H3Mc96w&usqp=CAU" style="width:20px; height:45px;"></a> <a href="#" target="_blank"><img src="https://t1.daumcdn.net/cfile/tistory/9910D03D5CC4518005" style="width:70px; height:45px;"></a>
   <br><br><br>
   
