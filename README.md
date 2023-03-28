@@ -1,6 +1,8 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=ffdbe6&height=300&section=header&text=Hello,%20I'm&fontSize=70&animation=fadeIn&fontColor=4b4b4b" />
+.markdown -body {
+  font-family : Papyrus;}
+  
+<img src="https://capsule-render.vercel.app/api?type=wave&color=ffdbe6&height=200&section=header&text=Hello,%20I'm&fontSize=70&animation=fadeIn&fontColor=4b4b4b" />
 
 
   
@@ -71,6 +73,8 @@ Here are some ideas to get you started:
   
   
   
-<img src="https://capsule-render.vercel.app/api?type=wave&color=ffdbe6&height=200&section=footer&fontSize=70&animation=fadeIn&fontColor=4b4b4b&reversal=true" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=ffdbe6&height=200&section=footer&text=See%20You!&fontSize=70&animation=fadeIn&fontColor=4b4b4b&reversal=true"/>
 
+  
+  
 </div>
