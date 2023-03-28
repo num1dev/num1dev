@@ -33,7 +33,9 @@
 <a href="#" target="_blank"><img src="https://t1.daumcdn.net/cfile/tistory/9910D03D5CC4518005" style="width:70px; height:45px;"></a>
   <br><br><br> -->
   
- ### ✍️ &nbsp; _I'm currently taking the course of dktechin at KOSA_ &nbsp;✍️ 
+ ### ✍️ &nbsp; _I'm currently taking the course of dktechin at KOSA_ &nbsp;✍️ <br>
+  ### _🕑 &nbsp; 2023.02.27 ~ &nbsp;💻_
+ 
 
   
   <br><br><br>
