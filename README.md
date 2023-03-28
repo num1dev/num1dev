@@ -1,9 +1,9 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffdbe6&height=200&section=header&text=Hello,I'm&fontSize=70&fontColor=b0bac9" />
+
+
+<!--# 👋 _Hello, I'm Lucy_ 👋-->
   
-  
-# 👋 _Hello, I'm Lucy_ 👋
-  
-<br>
   
 
 <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/122321793/228085614-f7ce4605-6a97-489e-8373-90f11de6d903.png" style="width: 190px; height:190px;"></a>
@@ -16,7 +16,7 @@
 
 
   
-<a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/122321793/228138751-1786a3e0-854e-43e2-ad42-1360f8ef4512.jpg" style="width: 600px; height:350px;"></a>
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/122321793/228138751-1786a3e0-854e-43e2-ad42-1360f8ef4512.jpg" style="width: 700px; height:400px;"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
   
   
