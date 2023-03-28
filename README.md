@@ -14,37 +14,30 @@
  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> &nbsp;   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> &nbsp;  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 &nbsp;  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">  &nbsp; <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">  &nbsp; <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 
-
+<br><br>
+  
+  ## ``` 🔎 What I'm learning now?```
+  <br>
+  
+  ### _🕑 &nbsp;  2023.02.27 ~ 2023.07.26 &nbsp; 🕑_
+  
+   ### ✍️ &nbsp; _I'm currently taking the course of dktechin at KOSA_ &nbsp;✍️ <br>
+  
+  <br><br>
   
 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/122321793/228138751-1786a3e0-854e-43e2-ad42-1360f8ef4512.jpg" style="width: 700px; height:400px;"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  
-  
-<br>
- <!-- &nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img src="https://www.pngmart.com/files/8/Brackets-Transparent-Images-PNG.png" style="width:30px; height:45px;"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-<a href="https://dktechin.com/service/main/index" target="_blank"><img src="https://user-images.githubusercontent.com/122321793/228051993-9090bd7d-3fd4-479a-bbc4-a1b97f728e41.jpg" style="width:130px; height:45px;"></a> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-<a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/122321793/228095317-d47c763b-4f24-4d30-bb0f-296f78aff91a.png" style="width:50px; height:50px;"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-<a href="https://www.sw.or.kr/site/sw/main.do" target="_blank"><img src="https://user-images.githubusercontent.com/122321793/228093858-493cd9da-b83e-4e86-ac79-0a036b6e35af.png" style="width:150px; height:50px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVhqdzZmqELwaH4go-BJR3jYKmUNMWLtHtuo6q2YMB4ONYttWj-5SwVzf2Tm2H3Mc96w&usqp=CAU" style="width:20px; height:45px;"></a> 
-<a href="#" target="_blank"><img src="https://t1.daumcdn.net/cfile/tistory/9910D03D5CC4518005" style="width:70px; height:45px;"></a>
-  <br><br><br> -->
-  
-  
-  
+ 
 
-
-  
-  
- ### ✍️ &nbsp; _I'm currently taking the course of dktechin at KOSA_ &nbsp;✍️ <br>
-  ### _🕑 &nbsp; 💻 2023.02.27 ~ 2023.07.26 💻 &nbsp; 🕑_
  
   <br>
   <br>
   
+ 
+  
+  ## ``` 👩‍💻 What I'm trying to do!```
+  
+   <br><br>
   
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=num1dev&show_icons=true&theme=buefy)-->
  
