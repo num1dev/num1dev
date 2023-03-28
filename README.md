@@ -6,7 +6,7 @@
 <br>
   
 
-<a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/122321793/228085614-f7ce4605-6a97-489e-8373-90f11de6d903.png" style="width: 130px; height:130px;"></a>
+<a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/122321793/228085614-f7ce4605-6a97-489e-8373-90f11de6d903.png" style="width: 190px; height:190px;"></a>
 
 
   <a href="https://instagram.com/sj_cd_9612?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;
@@ -16,12 +16,12 @@
 
 
   
-<a href="#" target="_blank"><img src="https://i.pinimg.com/564x/e5/17/b2/e517b212f6aba912caae168fbb32900e.jpg" style="width: 600px; height:400px;"></a>
+<a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/122321793/228138751-1786a3e0-854e-43e2-ad42-1360f8ef4512.jpg" style="width: 600px; height:350px;"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
   
   
 <br>
-  &nbsp;&nbsp;&nbsp;
+ <!-- &nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://www.pngmart.com/files/8/Brackets-Transparent-Images-PNG.png" style="width:30px; height:45px;"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
 <a href="https://dktechin.com/service/main/index" target="_blank"><img src="https://user-images.githubusercontent.com/122321793/228051993-9090bd7d-3fd4-479a-bbc4-a1b97f728e41.jpg" style="width:130px; height:45px;"></a> 
@@ -31,9 +31,9 @@
 <a href="https://www.sw.or.kr/site/sw/main.do" target="_blank"><img src="https://user-images.githubusercontent.com/122321793/228093858-493cd9da-b83e-4e86-ac79-0a036b6e35af.png" style="width:150px; height:50px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVhqdzZmqELwaH4go-BJR3jYKmUNMWLtHtuo6q2YMB4ONYttWj-5SwVzf2Tm2H3Mc96w&usqp=CAU" style="width:20px; height:45px;"></a> 
 <a href="#" target="_blank"><img src="https://t1.daumcdn.net/cfile/tistory/9910D03D5CC4518005" style="width:70px; height:45px;"></a>
-  <br><br><br>
+  <br><br><br> -->
   
-  ✍️ &nbsp; _I'm currently taking the course of dktechin at KOSA_ &nbsp;✍️ 
+ ### ✍️ &nbsp; _I'm currently taking the course of dktechin at KOSA_ &nbsp;✍️ 
 
   
   <br><br><br>
@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---></div>
+--> </div>
