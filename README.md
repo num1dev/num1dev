@@ -1,6 +1,5 @@
 <div align="center">
-.markdown -body {
-  font-family : Papyrus;}
+
   
 <img src="https://capsule-render.vercel.app/api?type=wave&color=ffdbe6&height=200&section=header&text=Hello,%20I'm&fontSize=70&animation=fadeIn&fontColor=4b4b4b" />
 
