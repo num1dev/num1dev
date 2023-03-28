@@ -23,16 +23,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
 <a href="https://dktechin.com/service/main/index" target="_blank"><img src="https://user-images.githubusercontent.com/122321793/228051993-9090bd7d-3fd4-479a-bbc4-a1b97f728e41.jpg" style="width:130px; height:45px;"></a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-<a href="#" target="_blank"><img src="https://t1.daumcdn.net/cfile/tistory/122CFE484DAE956D23" style="width:20px; height:20px;"></a>
+<a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/122321793/228095317-d47c763b-4f24-4d30-bb0f-296f78aff91a.png" style="width:50px; height:50px;"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 <a href="https://www.sw.or.kr/site/sw/main.do" target="_blank"><img src="https://user-images.githubusercontent.com/122321793/228093858-493cd9da-b83e-4e86-ac79-0a036b6e35af.png" style="width:150px; height:50px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVhqdzZmqELwaH4go-BJR3jYKmUNMWLtHtuo6q2YMB4ONYttWj-5SwVzf2Tm2H3Mc96w&usqp=CAU" style="width:20px; height:45px;"></a> <a href="#" target="_blank"><img src="https://t1.daumcdn.net/cfile/tistory/9910D03D5CC4518005" style="width:70px; height:45px;"></a>
+<a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVhqdzZmqELwaH4go-BJR3jYKmUNMWLtHtuo6q2YMB4ONYttWj-5SwVzf2Tm2H3Mc96w&usqp=CAU" style="width:20px; height:45px;"></a> 
+<a href="#" target="_blank"><img src="https://t1.daumcdn.net/cfile/tistory/9910D03D5CC4518005" style="width:70px; height:45px;"></a>
   <br><br><br>
   
   ✍️ &nbsp; _I'm currently taking the course of dktechin at KOSA_ &nbsp;✍️ 
 
-  
-  
   
   <br><br><br>
   
