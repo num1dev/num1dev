@@ -36,7 +36,11 @@
  ### ✍️ &nbsp; _I'm currently taking the course of dktechin at KOSA_ &nbsp;✍️ <br>
   ### _🕑 &nbsp; 💻 2023.02.27 ~ 2023.07.26 💻 &nbsp; 🕑_
  
-
+  <br>
+  <br>
+  
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=num1dev&show_icons=true&theme=buefy)
   
   <br><br><br>
   
