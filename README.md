@@ -49,7 +49,9 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=num1dev&show_icons=true&theme=buefy)-->
  
   
-  [![](https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/buefy/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/buefy/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  <!--[![](https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/buefy/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)--> 
+  
+  [![](https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/buefy/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
    <br>
  
