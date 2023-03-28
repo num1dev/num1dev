@@ -33,6 +33,12 @@
 <a href="#" target="_blank"><img src="https://t1.daumcdn.net/cfile/tistory/9910D03D5CC4518005" style="width:70px; height:45px;"></a>
   <br><br><br> -->
   
+  
+  
+
+
+  
+  
  ### ✍️ &nbsp; _I'm currently taking the course of dktechin at KOSA_ &nbsp;✍️ <br>
   ### _🕑 &nbsp; 💻 2023.02.27 ~ 2023.07.26 💻 &nbsp; 🕑_
  
@@ -40,9 +46,13 @@
   <br>
   
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=num1dev&show_icons=true&theme=buefy)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=num1dev&show_icons=true&theme=buefy)-->
   
-  <br><br><br>
+  <br>
+  
+  [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/buefy/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) <br><br>
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/buefy/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/buefy/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  
   
 <!--
 **num1dev/num1dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
