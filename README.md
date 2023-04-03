@@ -55,12 +55,12 @@
   
   <br><br>
  
-  [![](https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/buefy/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  
-  <br>
-  
-  [![](https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/buefy/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  
+
+[![](https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/buefy/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/buefy/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/buefy/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
   <br><br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=ffdbe6&height=200&section=footer&text=See%20You!&fontSize=70&animation=fadeIn&fontColor=4b4b4b&reversal=true"/>
