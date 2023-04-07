@@ -1,6 +1,6 @@
 
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/122321793/230075298-cc35e1e0-f07b-4f33-8e25-b643df28945f.svg" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/122321793/230075298-cc35e1e0-f07b-4f33-8e25-b643df28945f.svg" width="100%" usemap="#imgmap202347133310"/>
 </p>
 
 <p align="center">
@@ -17,12 +17,11 @@
   <img src="https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/codeSTACKr/0-profile-details.svg" width="90%" />
 </p>
 
-<!--<map name="itmap">
-    <area href="https://www.sw.or.kr/site/sw/edu/selectEduListGallery.do" shape="rect" coords="39.15,14.4" />
-    <area href="https://dktechin.com/service/main/index" shape="rect" coords="75.22,14.4" />
-    <area href="https://github.com/num1dev/T.I.L" shape="rect" coords="113.05,14.4" />
-    <area href="mailto:num1developer@naver.com" shape="rect" coords="57.58,21.6" />
-    <area href="https://instagram.com/sj_cd_9612?igshid=ZDdkNTZiNTM=" shape="rect" coords="94.54,21.6" />
-    <area href="https://github.com/num1dev" shape="rect" coords="66.84,21.6" />
-
-</map>-->
+<map id="imgmap202347133310" name="imgmap202347133310">
+<area shape="rect" alt="" title="" coords="151,506,206,531" href="https://www.sw.or.kr/site/sw/edu/selectEduListGallery.do" target="" />
+<area shape="rect" alt="" title="" coords="217,506,307,531" href="https://dktechin.com/service/main/index" target="" />
+<area shape="rect" alt="" title="" coords="319,505,443,531" href="https://github.com/num1dev/T.I.L" target="" />
+<area shape="rect" alt="" title="" coords="176,956,232,977" href="mailto:num1developer@naver.com" target="" />
+<area shape="rect" alt="" title="" coords="245,956,340,978" href="https://instagram.com/sj_cd_9612?igshid=ZDdkNTZiNTM=" target="" />
+<area shape="rect" alt="" title="" coords="351,956,418,978" href="https://github.com/num1dev" target="" />
+</map>
