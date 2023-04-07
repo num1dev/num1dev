@@ -1,20 +1,20 @@
 
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/122321793/230075298-cc35e1e0-f07b-4f33-8e25-b643df28945f.svg" width="100%" usemap="#imgmap202347133310"/>
+  <img src="https://user-images.githubusercontent.com/122321793/230075298-cc35e1e0-f07b-4f33-8e25-b643df28945f.svg" usemap="#imgmap202347133310"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/codeSTACKr/3-stats.svg" width="45%" />
-  <img src="https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/codeSTACKr/4-productive-time.svg" width="45%" />
+  <img src="https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/codeSTACKr/3-stats.svg" width="30%" />
+  <img src="https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/codeSTACKr/4-productive-time.svg" width="30%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg" width="45%" />
-  <img src="https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg" width="45%" />
+  <img src="https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg" width="30%" />
+  <img src="https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg" width="30%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/codeSTACKr/0-profile-details.svg" width="90%" />
+  <img src="https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/codeSTACKr/0-profile-details.svg" width="60%" />
 </p>
 
 <map id="imgmap202347133310" name="imgmap202347133310">
