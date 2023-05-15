@@ -1,7 +1,7 @@
 
- <p align="center">
+<!--  <p align="center">
 <img src="https://user-images.githubusercontent.com/122321793/231339715-226122df-adc0-41e9-80f6-2baf81b7f63e.svg"/ width = "77%">
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/num1dev/num1dev/main/profile-summary-card-output/codeSTACKr/3-stats.svg" width="39%" />
